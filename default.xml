@@ -556,7 +556,5 @@
 <!--LockClock-->
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="orion" revision="6.0.1" />
 
-<!--masquerade -->
-  <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="master" />
 
 </manifest>
